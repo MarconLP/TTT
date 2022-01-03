@@ -1,0 +1,9 @@
+name: TTT
+version: 1.0
+main: net.ttt.main.Main
+depend: [ProtocolLib]
+commands:
+  setup:
+  start:
+  stats:
+  statsall:
